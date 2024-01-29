@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @LOMKOK artist and singer/composer/musician
-- 👀 I’m interested in AI, arts , music , sculpture, writing , and so on...
-- 🌱 I’m currently learning AI and how it works .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pinargasoiltlmmlomkok@gmail.com
-- 😄 Pronouns: he/them
-- ⚡ Fun fact: lived most of my life in the indian ocean
+- 👋 Hi, we are @LOMKOK artist and singer/composer/musician
+- 👀 we're interested in AI, arts , music , sculpture, writing , culture, comics, video gamez, society, philosophy, psychology, magick, self improvement, disclosed files, physics, mechanics, fluids, mind, NDE, etc....
+- 🌱 we're currently learning AI (how to install and make it work, prompt engineering, mastering the craft)
+- 📫 How to reach us pinargasoiltlmmlomkok@gmail.com
+- 😄 Pronouns: we/them
+- ⚡ Fun fact: we lived most of our life in the indian ocean
 
 <!---
 LOMKOK/LOMKOK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
